@@ -7,6 +7,19 @@ This application is designed for student homework tracking system.
 - [Supabase](https://supabase.io) was used for login or register authentication.
 - [TailwindCss](https://tailwindcss.com) was used for styling.
 
+## Registered Users
+
+- email: teacher1@hotmail.com   pass : 123456
+- email: teacher2@hotmail.com   pass : 123456
+- email: studen3@hotmail.com   pass : 123456
+- email: studen4@hotmail.com   pass : 123456
+- email: studen5@hotmail.com   pass : 123456
+- email: studen6@hotmail.com   pass : 123456
+- email: studen7@hotmail.com   pass : 123456
+- email: studen8@hotmail.com   pass : 123456
+- email: studen9@hotmail.com   pass : 123456
+- email: studen10@hotmail.com   pass : 123456
+
 If you want, you can use it by registering a new user. 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
